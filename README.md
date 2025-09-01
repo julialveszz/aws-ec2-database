@@ -2,6 +2,12 @@
 
 Uma aplicação web para gerenciamento de jogos do **Campeonato Brasileiro 2025**, desenvolvida em **PHP** e hospedada na **AWS** utilizando **EC2** para servidor web e **RDS** para banco de dados **MariaDB**.
 
+### Sobre os arquivos do repositório
+
+- **SamplePage.php**: Página principal da aplicação, responsável pelo formulário de cadastro e por carregar a lista de jogos (refletindo o banco de dados)
+- **README.md**: Documentação do projeto.
+- **ponderada-tutorial-aws.mp4**: Vídeo mostrando o funcionamento da aplicação e infraestrutura AWS.
+
 ### Tecnologias/componentes
 
 - **Frontend:** HTML + CSS (inline) + JavaScript (para validação de formulário)
